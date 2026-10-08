@@ -47,5 +47,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
