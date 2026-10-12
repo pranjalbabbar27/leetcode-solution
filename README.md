@@ -54,12 +54,14 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0136-single-number) |
 | [0912-sort-an-array](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
