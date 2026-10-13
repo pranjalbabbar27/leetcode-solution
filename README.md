@@ -22,6 +22,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0389-find-the-difference) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0912-sort-an-array) |
@@ -57,6 +59,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/pranjalbabbar27/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
